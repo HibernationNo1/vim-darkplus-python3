@@ -8,8 +8,6 @@
 
 
 
-*아직 윈도우 10에서만 적용해봄*
-
 ## Screenshots
 
 ### Gvim / python3
@@ -30,7 +28,7 @@ window에서 vim을 설치하면 `~./vim/vim82/syntax`에 `python.vim` 파일이
 
 **Plugin Reference** : https://github.com/vim-python/python-syntax
 
-Plugin을 설치하고 여러 옵션도 적용하자.
+`_vimrc` 파일에(Linux 사용자면 `.vimrc`에) Plugin을 설치하고 여러 옵션도 적용하자.
 
 ```
 Plugin 'vim-python/python-syntax'
@@ -70,4 +68,15 @@ Plugin 'HibernationNo1/vim-darkplus-python3'
 ```
 colorscheme vim-darkplus-python3
 ```
+
+
+
+## Version
+
+이상 없이 적용 됨을 확인
+
+| OS        |      | name | Version |
+| --------- | ---- | ---- | ------- |
+| Window 10 |      | VIm  | 8.2     |
+| Linux     |      | vim  | 8.1     |
 
