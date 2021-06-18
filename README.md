@@ -8,8 +8,6 @@ This colorscheme made by reference from [vim-python](https://github.com/vim-pyth
 
 
 
-*I tried Only Window 10 yet*
-
 ## Screenshots
 
 ### Gvim / python3
@@ -30,7 +28,7 @@ Defualt syntax file named `python.vim` in `~./vim/vim82/syntax` is not contain e
 
 **Plugin Reference** : https://github.com/vim-python/python-syntax
 
-Plugin and Applied option in `_vimrc`
+Plugin and Applied option in `_vimrc`(or `.vimrc` in Linux)
 
 ```
 Plugin 'vim-python/python-syntax'
@@ -70,4 +68,15 @@ Plugin 'HibernationNo1/vim-darkplus-python3'
 ```
 colorscheme vim-darkplus-python3
 ```
+
+
+
+## Version
+
+I checked colorscheme successfully applied in those environment
+
+| OS        |      | name | Version |
+| --------- | ---- | ---- | ------- |
+| Window 10 |      | VIm  | 8.2     |
+| Linux     |      | vim  | 8.1     |
 
